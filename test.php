@@ -9,5 +9,5 @@
     echo phpinfo();
     echo $_SERVER['SERVER_ADDR'];
     echo $_SERVER['REMOTE_ADDR'];
-
+    echo "<hr />";
     echo "11111111111";
